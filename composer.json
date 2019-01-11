@@ -3,6 +3,7 @@
   "description": "Exception handling package for php language.",
   "type": "project",
   "version": "1.0.0",
+  "license": "MIT",
   "authors": [
     {
       "name": "Kernel Huang",
