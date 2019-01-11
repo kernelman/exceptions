@@ -1,0 +1,25 @@
+{
+  "name": "kernelman/exceptions",
+  "description": "Exception handling package for php language.",
+  "type": "project",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Kernel Huang",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.0.0",
+    "kernelman/message" : ">=1.0.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Exceptions\\": "src/"
+    }
+  },
+  "minimum-stability": "dev"
+}
