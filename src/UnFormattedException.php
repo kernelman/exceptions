@@ -11,6 +11,7 @@ namespace Exceptions;
 
 
 use Exception;
+use Message\Message;
 use Throwable;
 
 /**
